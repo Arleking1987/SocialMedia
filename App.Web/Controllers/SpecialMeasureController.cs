@@ -29,9 +29,10 @@ namespace App.Web.Controllers
 
         [HttpPost]
         [Route("CreateMessage")]
-        public async Task CreateMessage(SpecialMeasureContract message)
+        public async Task<IActionResult> CreateMessage(SpecialMeasureContract message)
         {
             await _specialMeasure.CreateMessage(message);
+            return Ok(message);
         }
     }
 }
