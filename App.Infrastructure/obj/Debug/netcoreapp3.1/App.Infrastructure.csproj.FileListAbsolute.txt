@@ -1,0 +1,15 @@
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.deps.json
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.runtimeconfig.json
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.runtimeconfig.dev.json
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.dll
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Infrastructure.pdb
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Common.dll
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\bin\Debug\netcoreapp3.1\App.Common.pdb
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.csproj.AssemblyReference.cache
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.AssemblyInfoInputs.cache
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.AssemblyInfo.cs
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.csproj.CopyComplete
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.dll
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.pdb
+D:\Desarrollo\BeCotton\SocialMedia_EntryData\App.Infrastructure\obj\Debug\netcoreapp3.1\App.Infrastructure.genruntimeconfig.cache
